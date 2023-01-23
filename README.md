@@ -5,3 +5,4 @@ This Repository is solely dedicated to solve basic DSA functionalities
 * Stack using Linked List
 * Queue using Linked List
 * Binary Search Tree
+* Circular Queue
