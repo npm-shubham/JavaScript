@@ -26,9 +26,7 @@ class BST
         let curr = this.root
         while(true)
         {
-            //if(value === curr.value) 
-              //  return undefined
-            if(value < curr.value)
+            if(value < curr.data)
             {
                 if(curr.left === null)
                 {

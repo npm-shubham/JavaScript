@@ -36,7 +36,7 @@ class Queue
         else
         {
             this.head=curr.next
-            curr.next=null
+            //curr.next=null
             this.count--
         }
     }

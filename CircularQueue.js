@@ -32,7 +32,7 @@ class CircularQueue
         } 
         else 
         {
-            
+            console.log("OverFlow")
         }
     }
     dequeue() 
