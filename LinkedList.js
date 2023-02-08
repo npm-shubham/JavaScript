@@ -57,7 +57,7 @@ class LinkedList
         {
             while(i<pos-1)
             {
-                curr=curr.next;
+                 curr=curr.next;
                 i++;
             }
             node.next=curr.next;
